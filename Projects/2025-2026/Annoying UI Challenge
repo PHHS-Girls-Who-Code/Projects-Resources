@@ -1,0 +1,47 @@
+# Annoying UI Challenge
+Students were given 5 weeks to create an annoying UI, taking inspiration from [this video](<https://www.youtube.com/shorts/yZTFSK_TDWY?embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=MjM4NTE>). Students worked in groups of 2-3 people and created a web UI that is not user friendly, manipulating anything like volume, etc. We then tested each other's prototypes and voted on which group had the most annoying UI. This is meant to allow students of any level to learn a new language, learn how to use GitHub, VSCode, and code collaboratively. Students can use any language.
+
+### Requirements:
+- Everyone must contribute
+- You must have a testable prototype 
+- You must have some way for the user to interact with your program
+- Include a brief explanation of your UI in your ReadMe.MD file
+- Include the authors on the ReadMe.MD file with your teammates, team name, and team logo
+
+
+# Submissions
+| image           |   Team #  |       |
+| :---------------- | :------: | ----:  |
+| Name 1    |  Name 2   | Name 3 |
+| Repository: |  [Linked repository name](<>) |     |
+| Description: | etc |
+
+| image           |   Team #  |       |
+| :---------------- | :------: | ----:  |
+| Name 1    |  Name 2   | Name 3 |
+| Repository: |  [Linked repository name](<>) |     |
+| Description: | etc |
+
+| image           |   Team #  |       |
+| :---------------- | :------: | ----:  |
+| Name 1    |  Name 2   | Name 3 |
+| Repository: |  [Linked repository name](<>) |     |
+| Description: | etc |
+
+# Resources
+The following libraries, videos, and tutorials will be helpful for this project.
+
+
+### HTML & CSS:
+- [HTML Introduction](<https://www.w3schools.com/html/html_intro.asp>)
+- [HTML Styles - CSS](<https://www.w3schools.com/html/html_css.asp>)
+
+### Java & Java Swing:
+- [Java Introduction](<https://www.w3schools.com/java/java_intro.asp>)
+- [Java Swing](<https://codehs.com/tutorial/david/basic-java-swing-layouts>)
+- [Java Swing Video Playlist from Java Junkie](<https://www.youtube.com/playlist?list=PL3bGLnkkGnuV699lP_f9DvxyK5lMFpq6U>)
+
+### Python:
+- [Python Introduction](<https://www.w3schools.com/python/default.asp>)
+- [Flask](<https://www.geeksforgeeks.org/python/flask-tutorial/>)
+- [CherryPi](<https://www.geeksforgeeks.org/python/introduction-to-cherrypy/>)
