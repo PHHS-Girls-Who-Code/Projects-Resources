@@ -22,11 +22,11 @@ Students were given 5 weeks to create an annoying UI, taking inspiration from [t
 | Repository: |  [Linked repository name](<>) |     |
 | Description: | etc |
 
-| image           | The Incredibles |     |
-| :---------------- | :------: | ----:  |
-| Vera Stephenson |  Soliana Bogale | Grace Carey|
-| Repository: |  [Linked repository name](<>) |     |
-| Description: | etc |
+| image           | The Incredibles |     | |
+| :---------------- | :------: | :----:  | ----:  |
+| Vera Stephenson |  Soliana Bogale | Grace Carey| Isabella Lopez-Barrios|
+| Repository: |  [Linked repository name](<>) |     | |
+| Description: | etc | | |
 
 # Resources
 The following libraries, videos, and tutorials will be helpful for this project.
@@ -45,5 +45,6 @@ The following libraries, videos, and tutorials will be helpful for this project.
 - [Python Introduction](<https://www.w3schools.com/python/default.asp>)
 - [Flask](<https://www.geeksforgeeks.org/python/flask-tutorial/>)
 - [CherryPi](<https://www.geeksforgeeks.org/python/introduction-to-cherrypy/>)
+
 
 
